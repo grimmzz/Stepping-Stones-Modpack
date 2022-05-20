@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lxAFVK+Ani+QdfAafIPAks3I++JXtLdFFs7MGwFUqeXTfYZRa6kFcJbvdzNFBo7rkae8EB+/otX93aCUDq3t/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grims\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\SteppingStones\\SteppingStones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grims\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
